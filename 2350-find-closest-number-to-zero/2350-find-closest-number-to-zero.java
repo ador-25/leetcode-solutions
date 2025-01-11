@@ -31,7 +31,6 @@ class Solution {
             if (Math.abs(negativeMax)<positiveMin){
                 return negativeMax;
             }
-            return positiveMin;
         }
         return positiveMin;
 
