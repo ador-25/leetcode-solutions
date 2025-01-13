@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ador-25/leetcode-solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ador-25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ador-25/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2350-find-closest-number-to-zero](https://github.com/ador-25/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -31,5 +32,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ador-25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ador-25/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
