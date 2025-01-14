@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ador-25/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/ador-25/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ador-25/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
