@@ -18,7 +18,7 @@ class Solution {
                     return prefix.toString();
                 }
             }
-            prefix.append(strs[0].charAt(i));
+            prefix.append(prev);
         }
         return prefix.toString();
     }
