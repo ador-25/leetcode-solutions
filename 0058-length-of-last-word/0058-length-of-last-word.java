@@ -13,5 +13,4 @@ class Solution {
         }
         return curr;
     }
-
 }
