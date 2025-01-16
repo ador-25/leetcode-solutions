@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ador-25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ador-25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ador-25/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/ador-25/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2058-concatenation-of-array](https://github.com/ador-25/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ador-25/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ador-25/leetcode-solutions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ador-25/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
