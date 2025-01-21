@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ador-25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ador-25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ador-25/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ador-25/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ador-25/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2058-concatenation-of-array](https://github.com/ador-25/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ador-25/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ador-25/leetcode-solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/ador-25/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ador-25/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ador-25/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ador-25/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
