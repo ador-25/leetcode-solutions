@@ -4,16 +4,15 @@ class Solution {
             return false;
         }
         char[] m1 = new char[256];
-        char[] m2 = new char[256];
         for (int i=0;i<s.length();i++){
             m1[s.charAt(i)]++;
-            m2[t.charAt(i)]++;
         }
 
-        for(int i='a';i<'z';i++){
-            if (m1[i]!=m2[i]){
+        for(int i=0;i<t.length();i++){
+            if (m1[t.charAt(i)]==0){
                 return false;
             }
+            m1[t.charAt(i)]--;
         }
 
         return true;
