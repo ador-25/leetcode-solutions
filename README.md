@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/ador-25/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/ador-25/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/ador-25/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/ador-25/leetcode-solutions/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
