@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ador-25/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ador-25/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ador-25/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ador-25/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/ador-25/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ador-25/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
