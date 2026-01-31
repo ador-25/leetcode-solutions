@@ -1,12 +1,21 @@
 public class Solution {
-    public int ClimbStairs(int n) {
-        int[]stairs = new int[n+1];
-        stairs[0]=1;
-        stairs[1]=1;
-        for(int i = 2; i<=n; i++)
-        {
-            stairs[i]=stairs[i-1]+stairs[i-2];
-        }
-        return stairs[n];
+    private int []cache;
+    public int ClimbStairs(int n)
+    {
+        cache = new int[n+1];
+        return Climb(n);
+    }
+
+    private int Climb(int n)
+    {
+        if(n==1 || n==2)
+            return n;
+        if(cache[n]!=0)
+            return cache[n];
+        int left = Climb(n-1);
+        int rigth = Climb(n-2);
+        int sum = left+rigth;
+        cache[n]=sum;
+        return sum;
     }
 }
